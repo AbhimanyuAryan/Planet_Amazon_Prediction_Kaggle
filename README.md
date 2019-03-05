@@ -18,3 +18,7 @@ Tranforming
 Transforming images to size=256 gave use f_{2} score of 0.928..
 
 Top 6% out of 923 teams
+
+![](kaggle/competition.png)
+![](kaggle/leaderboard.png)
+![](kaggle/myscore.png)
